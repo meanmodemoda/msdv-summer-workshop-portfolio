@@ -99,7 +99,7 @@ a {
 
 img {
   display: block;
-  width: 300px;
+  width: 400px;
   height: 100%;
 }
 
