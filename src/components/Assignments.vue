@@ -3,7 +3,8 @@
     <h1>{{ msg }}</h1>
     <br>
     <br>
-    <p>A 6 week training outcome to get started with HTML, CSS and JavaScript. Plot graphs using d3 and p5,render JavaScript templates with Vue.js.</p>
+    <p>A 6 week training outcome to get started with HTML, CSS and JavaScript.<br>I've learned to build a responsive webpage, JavaScript essentials and JavaScript key frameworks.</p>
+    <div class="portfolio">
     <ul>
       <li><div class="container"><a href="https://meanmodemoda.github.io/msdv-summer-workshop-about-me/" target="_blank" rel="noopener">
         <img alt="Assignment 1" src="./Assignment_1_Square.jpg"> 
@@ -35,7 +36,8 @@
         <p>Use Vue.js to render data and add a text based filter.</p></div>
       </div></a></div></li>
       
-    </ul>
+      </ul>
+    </div>
   </div>
    
 </template>
@@ -60,14 +62,14 @@ p {
   font-size: 16px;
 }
 
-ul {
+.portfolio ul {
   display: inline-block;
   list-style-type: none;
   padding: 0;
 }
 
 
-li {
+.portfolio li {
   display: inline-block;
   margin: 20px 20px;
   /*position: relative;*/
