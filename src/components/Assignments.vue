@@ -57,7 +57,7 @@ h3 {
 }
 
 p {
-  font-size: 20px;
+  font-size: 16px;
 }
 
 ul {
@@ -97,7 +97,7 @@ a {
 
 img {
   display: block;
-  width: 400px;
+  width: 300px;
   height: 100%;
 }
 
