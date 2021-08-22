@@ -1,5 +1,5 @@
 module.exports = {
-    baseURL: './',
+    publicPath: './',
     devServer: {
         disableHostCheck: true
     }
