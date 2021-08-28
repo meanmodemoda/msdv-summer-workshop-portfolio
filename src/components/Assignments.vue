@@ -105,7 +105,7 @@ a {
 
 img {
   display: block;
-  width: 400px;
+  width: 330px;
   height: 100%;
 }
 
