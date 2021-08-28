@@ -24,10 +24,16 @@
         <p>Render data using JavaScript in increments of 5 and add pagination.</p></div>
       </div></a></div></li>
 
-      <li><div class="container"><a href="https://meanmodemoda.github.io/msdv-summer-workshop-d3-bar-chart/" target="_blank" rel="noopener">  
+      <li><div class="container"><a href="https://meanmodemoda.github.io/msdv-summer-workshop-d3-chart/" target="_blank" rel="noopener">  
       <img alt="Assignment 4.1" src="./Assignment_4_1_Square.jpg">
       <div class="overlay"><div class="text"><h3>Assignment 4.1</h3>
         <p>Plot a bar chart using d3.js.</p></div>
+      </div></a></div></li>
+      
+      <li><div class="container"><a href="https://meanmodemoda.github.io/msdv-summer-workshop-p5-bar-chart/" target="_blank" rel="noopener">  
+      <img alt="Assignment 4.2" src="./Assignment_4_2_Square.jpg">
+      <div class="overlay"><div class="text"><h3>Assignment 4.2</h3>
+        <p>Plot a bar chart using p5.js.</p></div>
       </div></a></div></li>
       
         <li><div class="container"><a href="https://meanmodemoda.github.io/msdv-summer-workshop-vue-render-and-filter-data/" target="_blank" rel="noopener">  
@@ -99,7 +105,7 @@ a {
 
 img {
   display: block;
-  width: 400px;
+  width: 450px;
   height: 100%;
 }
 
