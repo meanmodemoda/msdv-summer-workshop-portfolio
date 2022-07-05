@@ -6,7 +6,7 @@
     <p>A 6 week training outcome to get started with HTML, CSS and JavaScript.<br>I've learned to build a responsive webpage, JavaScript essentials and JavaScript key frameworks.</p>
     <div class="portfolio">
     <ul>
-      <li><div class="container"><a href="https:///muonius.github.io/msdv-summer-workshop-about-me/" target="_blank" rel="noopener">
+      <li><div class="container"><a href="https://muonius.github.io/msdv-summer-workshop-about-me/" target="_blank" rel="noopener">
         <img alt="Assignment 1" src="./Assignment_1_Square.jpg"> 
         <div class="overlay"><div class="text"><h3>Assignment 1</h3>
           <p>Create a responsive "About Me" page.</p></div>
