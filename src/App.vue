@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-   <a href="https://meanmodemoda.github.io/msdv-summer-workshop-about-me/" target="_blank" rel="noopener"><img alt="Vue logo" src="./assets/logo.png"></a> 
+   <a href="https://muons.com/msdv-summer-workshop-about-me/" target="_blank" rel="noopener"><img alt="Vue logo" src="./assets/logo.png"></a> 
     <span></span>
     <h1>MS Data Visualization Summer Workshop 2021</h1>
     <Assignments msg="Assignment Portfolio"/>
